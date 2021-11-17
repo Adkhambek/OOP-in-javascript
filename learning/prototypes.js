@@ -15,5 +15,3 @@ console.log(adham.__proto__);
 Person.prototype.lastName = "Muzaffarov"
 console.log(adham.lastName);
 console.log(adham.hasOwnProperty("lastName"));
-
-// 5-video
